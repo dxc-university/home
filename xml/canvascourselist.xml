@@ -40,7 +40,7 @@ url('../res/css/GT-Walsheim-Pro-Bold.svg#svgFontName') format('svg'); /* Legacy 
 
 			body {
      	  
-		  color: #FFFF00;
+		  color: #000000;
 		  font-size: 1.3vw;
 		  line-height: 1.3;
 		  font-weight: 400;
@@ -194,8 +194,8 @@ url('../res/css/GT-Walsheim-Pro-Bold.svg#svgFontName') format('svg'); /* Legacy 
                </td>
           </tr>
           
-          <tr>
-              <td style="padding-top: 0px; padding-left:0px; padding-bottom:0px; padding-right:0px;" colspan="2">
+         <tr>
+              <td style="padding-top: 50px; padding-left:0px; padding-bottom:0px; padding-right:0px;" colspan="2">
 
                   <div class="container">
                       	<span id="ex2" style="padding-top: 0px; padding-left:0px; padding-bottom:0px; padding-right:15px;"><a href="https://dxc.percipio.com/library/22335ad0-dc1e-11e7-9fe8-1b7f5fcc733d" target="_blank"><img src="https://raw.githubusercontent.com/dxc-university/home/master/res/images/DigitalTransformation.png" style="width:100%; " /></a></span>
@@ -204,7 +204,18 @@ url('../res/css/GT-Walsheim-Pro-Bold.svg#svgFontName') format('svg'); /* Legacy 
 			<span id="ex2" style="padding-top: 0px; padding-left:0px; padding-bottom:0px; padding-right:15px;"><a href="https://dxc.percipio.com/search?categories=Lab&q=lab" target="_blank"><img src="https://raw.githubusercontent.com/dxc-university/home/master/res/images/VirtualPracticeLabs.png" style="width:100%;" /></a></span>
                   </div>
               </td>
+         </tr>
+
+	 <tr>
+              <td style="padding-top: 50px; padding-left:0px; padding-bottom:0px; padding-right:0px;" colspan="2">
+                  <div class="container">
+                       <p><span id="ex2" style="font-size: 24px;"><strong>Skills Management has moved to Workday</strong></span></p>
+		       <p><span id="ex2" style="font-size: 24px;">Access more information on myDXC<a href="https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html" target="_blank">Skills Management</a> page.</span></p>
+		       <p><span id="ex2" style="font-size: 24px;">If you have any questions, please contact<a href="https://dxchr.service-now.com/hrportal" target="_blank">HRConnect</a>.</span></p>
+                  </div>                  
+               </td>
           </tr>
+
           
 </table>
 
